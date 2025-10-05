@@ -1,0 +1,2 @@
+"""MCP application package"""
+pass
